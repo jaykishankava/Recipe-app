@@ -64,7 +64,7 @@ const Add = () => {
                     <div className=" col-lg-6 mx-auto">
                         
                         <form onSubmit={handle} className=' bg border p-3 shadow bg-light'>
-                            <h3 className='mb-3 text-center'>Add Blog</h3>
+                            <h3 className='mb-3 text-center'>Add Recipe</h3>
                             <div className="mb-3">
                                 <label htmlFor="name" className="form-label"> Title</label>
                                 <input type="text" className="form-control" onChange={(e) =>  setTitle(e.target.value)} value={title} />

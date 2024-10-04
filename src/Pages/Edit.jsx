@@ -79,7 +79,7 @@ const Edit = () => {
                     <div className="col-lg-6 mx-auto">
                         
                         <form onSubmit={handle} className= ' bg border  p-3 shadow'>
-                        <h3 className='mb-3 text-center'>Edit Blog</h3>
+                        <h3 className='mb-3 text-center'>Edit Recipe</h3>
                             <div className="mb-3">
                                 <label htmlFor="exampleInputEmail1" className="form-label"> Title</label>
                                 <input type="text" className="form-control" onChange={(e) => setTitle(e.target.value)} value={title}  />

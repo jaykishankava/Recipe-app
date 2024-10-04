@@ -1,6 +1,6 @@
-Project Name: Recipe Blog App
+Project Name: Recipe App
 Description:
-This project is a Recipe Blog App built using React.js and React Router for seamless page navigation. The application allows users to add, view, edit, and delete recipes, storing all data in the browser's localStorage. The app provides a user-friendly interface for managing cooking recipes, with features like search and filter functionality.
+This project is a Recipe App built using React.js and React Router for seamless page navigation. The application allows users to add, view, edit, and delete recipes, storing all data in the browser's localStorage. The app provides a user-friendly interface for managing cooking recipes, with features like search and filter functionality.
 
 Key Features:
 Add Recipe:
